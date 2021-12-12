@@ -1,0 +1,18 @@
+
+   
+body {
+
+    color: #000000;
+    background-color: rgb(255, 255, 255);
+  }
+ 
+ .tag {
+     font-family: inherit; 
+     font-size: 1rem;
+    }  
+
+.jumbotron {
+    background-image: url("https://www.stockvault.net/data/2013/03/22/143167/preview16.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
